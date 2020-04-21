@@ -56,6 +56,13 @@ public class Array <E> {
             throw new IllegalArgumentException(("Get failed,Index is illegal"));
         return data[index];
     }
+
+    public E getLast(){
+        return get(size-1);
+    }
+    public E getFirst(){
+        return get(0);
+    }
     //修改index索引位置的元素为e
     void set(int index,E e){
         if(index< 0 || index >= size)
