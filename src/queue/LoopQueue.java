@@ -31,7 +31,7 @@ public class LoopQueue<E> implements Queue<E> {
     @Override
     public void enqueue(E e){
         if((tail+1)%data.length == front)
-            resize(2 % getCapacity());
+            resize(2 * getCapacity());
         data[tail] = e;
         tail = (tail+1)%data.length;
         size++;
@@ -78,14 +78,7 @@ public class LoopQueue<E> implements Queue<E> {
     }
     public static void main(String[] args){
         LoopQueue<Integer> queue = new LoopQueue<>();
-        for(int i = 0; i < 10; i++){
-            queue.enqueue(i);
-            System.out.println(queue);
-            if(i % 3 == 2)
-            {
-                queue.dequeue() ;
-                System.out.println(queue);
-            }
-        }
+        Test.testQueue(queue);
+
     }
 }
