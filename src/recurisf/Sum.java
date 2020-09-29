@@ -14,7 +14,10 @@ public class Sum {
    private static int sum(int[] arr,int l){
        if(l == arr.length)
            return 0;
-       return arr[l] + sum(arr,l+1);
+       //return arr[l] + sum(arr,l+1);
+       int x = sum(arr,l +1);
+       int res = arr[l] +x;
+       return  x;
    }
    public static void main(String[] args){
        int[] nums = {1,2,3,4};

@@ -10,6 +10,7 @@ public class LoopQueue<E> implements Queue<E> {
       front = tail = 0;
       size = 0;
     }
+
     public LoopQueue(){
         this(10);
     }

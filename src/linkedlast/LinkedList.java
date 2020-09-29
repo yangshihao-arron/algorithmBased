@@ -55,7 +55,6 @@ public class LinkedList<E> {
 //            node.next = prev.next;
 //            prev.next = node;
             prev.next = new Node(e,prev.next);
-
             size++;
     }
 
