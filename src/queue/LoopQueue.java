@@ -79,6 +79,7 @@ public class LoopQueue<E> implements Queue<E> {
     }
     public static void main(String[] args){
         LoopQueue<Integer> queue = new LoopQueue<>();
+        //Test.testQueue(queue);
         Test.testQueue(queue);
 
     }

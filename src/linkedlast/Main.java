@@ -7,11 +7,10 @@ public class Main {
             linkedList.addFIrst(i);
             System.out.println(linkedList);
         }
-        linkedList.addLast(999);
-        System.out.println(linkedList);
-        linkedList.removeFirst();
-        System.out.println(linkedList);
-        linkedList.removeLast();
-        System.out.println(linkedList);
+
+        linkedList.add(0,7);
+        linkedList.add(4,8);
+
+        System.out.println(linkedList.toString());
     }
 }

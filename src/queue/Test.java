@@ -1,6 +1,7 @@
 package queue;
 
 public class Test {
+
     public static void testQueue(Queue queue){
         for(int i = 0; i < 10; i++){
             queue.enqueue(i);
@@ -10,6 +11,7 @@ public class Test {
                 queue.dequeue() ;
                 System.out.println(queue);
             }
+
         }
     }
 }

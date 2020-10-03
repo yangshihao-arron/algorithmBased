@@ -1,4 +1,4 @@
-package linkedlast;
+package set;
 
 public class LinkedList<E> {
     private class Node{
@@ -169,5 +169,4 @@ public class LinkedList<E> {
             size --;
         }
     }
-
 }
