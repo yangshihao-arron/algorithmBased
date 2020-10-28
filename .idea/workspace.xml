@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e0094db-8970-45fc-8420-3ad3bc7ccff2" name="Default Changelist" comment="first">
+      <change afterPath="$PROJECT_DIR$/src/test/TestA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jLfSaIzKXitIxLufk3K99P4blY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="maxheap" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestA">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="set.Main" />
+      <module name="alforithm based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestA" />
+      <module name="alforithm based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestA" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e0094db-8970-45fc-8420-3ad3bc7ccff2" name="Default Changelist" comment="" />
+      <created>1603588292304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603588292304</updated>
+      <workItem from="1603588293368" duration="597000" />
+      <workItem from="1603673348041" duration="219000" />
+      <workItem from="1603784827424" duration="13000" />
+      <workItem from="1603784881672" duration="2827000" />
+      <workItem from="1603863397100" duration="3273000" />
+      <workItem from="1603868276555" duration="2431000" />
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1603870069582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603870069582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1603870063195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603870063195" />
+    <state x="549" y="155" width="438" height="502" key="FileChooserDialogImpl" timestamp="1603785427238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="155" width="438" height="502" key="FileChooserDialogImpl/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603785427238" />
+    <state width="1493" height="95" key="GridCell.Tab.0.bottom" timestamp="1603868247886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603868247886" />
+    <state width="1493" height="95" key="GridCell.Tab.0.center" timestamp="1603868247886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603868247886" />
+    <state width="1493" height="95" key="GridCell.Tab.0.left" timestamp="1603868247886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603868247886" />
+    <state width="1493" height="95" key="GridCell.Tab.0.right" timestamp="1603868247886">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="95" key="GridCell.Tab.0.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603868247886" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1603870051445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603870051445" />
+  </component>
+</project>
