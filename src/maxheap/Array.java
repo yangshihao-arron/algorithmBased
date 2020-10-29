@@ -1,5 +1,7 @@
 package maxheap;
 
+import java.util.Objects;
+
 public class Array<E> {
     private E[] data;
     private int size;
@@ -13,6 +15,14 @@ public class Array<E> {
     public Array(){
         this(10);
     }
+
+    public Array(E[] arr){
+        data = (E[])new Object[arr.length];
+        for(int i = 0; i < arr.length; i++)
+            data[i] = arr[i];
+        size = arr.length;
+    }
+
     //返回数组元素个数
     public int getSize(){
         return size;
@@ -52,7 +62,7 @@ public class Array<E> {
 
     //获取index索引位置的元素
     public E get(int index){
-        if(index < 0 | index >= size)  //index == size 处索引为空
+        if(index < 0 || index >= size)  //index == size 处索引为空
             throw new IllegalArgumentException(("Get failed,Index is illegal"));
         return data[index];
     }
@@ -114,6 +124,16 @@ public class Array<E> {
         if(index != -1)
             remove(index);
     }
+
+    public void swap(int i , int j){
+        if(i < 0 || i >= size || j < 0 || j >= size)
+            throw new IllegalArgumentException("index is illegal");
+
+        E e = data[i];
+        data[i] = data[j];
+        data[j] = e;
+    }
+
     @Override
     public String toString(){
       StringBuilder res = new StringBuilder();
