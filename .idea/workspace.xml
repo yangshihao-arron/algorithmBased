@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e0094db-8970-45fc-8420-3ad3bc7ccff2" name="Default Changelist" comment="first">
-      <change afterPath="$PROJECT_DIR$/src/test/TestA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="0e0094db-8970-45fc-8420-3ad3bc7ccff2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/CustomStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/MapSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test1381.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/WordDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/TestA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/TestA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/TestA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,23 +38,67 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/trie" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="trie" />
       <recent name="maxheap" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\algorithmBased\src\trie" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.TestA">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="set.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="CustomStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.CustomStack" />
       <module name="alforithm based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="set.*" />
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="segmengtree.Main" />
+      <module name="alforithm based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="segmengtree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="trie.Main" />
+      <module name="alforithm based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test1381" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test1381" />
+      <module name="alforithm based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,21 +119,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestA" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CustomStack" />
+        <item itemvalue="Application.Test1381" />
+        <item itemvalue="Application.TestA" />
+        <item itemvalue="Application.Main (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +155,16 @@
       <workItem from="1603784827424" duration="13000" />
       <workItem from="1603784881672" duration="2827000" />
       <workItem from="1603863397100" duration="3273000" />
-      <workItem from="1603868276555" duration="2431000" />
+      <workItem from="1603868276555" duration="3169000" />
+      <workItem from="1603933847887" duration="2480000" />
+      <workItem from="1603948748285" duration="10712000" />
+      <workItem from="1603969632034" duration="243000" />
+      <workItem from="1604204917877" duration="429000" />
+      <workItem from="1604233002035" duration="1812000" />
+      <workItem from="1604294852089" duration="310000" />
+      <workItem from="1604321751971" duration="1921000" />
+      <workItem from="1604363549775" duration="15797000" />
+      <workItem from="1604452618605" duration="7431000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1603870069582</created>
@@ -109,7 +173,42 @@
       <option name="project" value="LOCAL" />
       <updated>1603870069582</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add maxheap">
+      <created>1603870798554</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603870798554</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add maxheap">
+      <created>1603969676445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603969676445</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add SegmentTree">
+      <created>1604393284237</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604393284237</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update package test">
+      <created>1604393650220</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604393650220</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add trie">
+      <created>1604475970911</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604475970911</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,36 +216,100 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="add maxheap" />
+    <MESSAGE value="add SegmentTree" />
+    <MESSAGE value="update package test" />
+    <MESSAGE value="add trie" />
+    <option name="LAST_COMMIT_MESSAGE" value="add trie" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1603870063195">
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1604367441296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603870063195" />
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604367441296" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604455595903">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604455595903" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1604475968765">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604475968765" />
     <state x="549" y="155" width="438" height="502" key="FileChooserDialogImpl" timestamp="1603785427238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="155" width="438" height="502" key="FileChooserDialogImpl/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603785427238" />
-    <state width="1493" height="95" key="GridCell.Tab.0.bottom" timestamp="1603868247886">
+    <state width="746" height="221" key="GridCell.Tab.0.bottom" timestamp="1604476047524">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="95" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603868247886" />
-    <state width="1493" height="95" key="GridCell.Tab.0.center" timestamp="1603868247886">
+    <state width="746" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604476047524" />
+    <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
+    <state width="746" height="221" key="GridCell.Tab.0.center" timestamp="1604476047524">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="95" key="GridCell.Tab.0.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603868247886" />
-    <state width="1493" height="95" key="GridCell.Tab.0.left" timestamp="1603868247886">
+    <state width="746" height="221" key="GridCell.Tab.0.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604476047524" />
+    <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
+    <state width="746" height="221" key="GridCell.Tab.0.left" timestamp="1604476047524">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="95" key="GridCell.Tab.0.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603868247886" />
-    <state width="1493" height="95" key="GridCell.Tab.0.right" timestamp="1603868247886">
+    <state width="746" height="221" key="GridCell.Tab.0.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604476047524" />
+    <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
+    <state width="746" height="221" key="GridCell.Tab.0.right" timestamp="1604476047524">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="95" key="GridCell.Tab.0.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603868247886" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1603870051445">
+    <state width="746" height="221" key="GridCell.Tab.0.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604476047524" />
+    <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
+    <state width="746" height="261" key="GridCell.Tab.1.bottom" timestamp="1604402651748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603870051445" />
+    <state width="746" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604402651748" />
+    <state width="746" height="261" key="GridCell.Tab.1.center" timestamp="1604402651748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604402651748" />
+    <state width="746" height="261" key="GridCell.Tab.1.left" timestamp="1604402651748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604402651748" />
+    <state width="746" height="261" key="GridCell.Tab.1.right" timestamp="1604402651748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="746" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604402651748" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1604233964170">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603969879518" />
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604233964170" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604475977360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604475977360" />
+    <state x="499" y="183" key="extract.method.dialog" timestamp="1604455976350">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="183" key="extract.method.dialog/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604455976350" />
+    <state x="467" y="10" width="602" height="804" key="find.popup" timestamp="1604476064762">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="467" y="10" width="602" height="804" key="find.popup/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604476064762" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604233144337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604233144337" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604457631670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604457631670" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/Test1381.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
