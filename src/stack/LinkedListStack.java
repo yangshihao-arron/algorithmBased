@@ -1,6 +1,6 @@
 package stack;
 
-import linkedlast.LinkedList;
+import linkedlist.LinkedList;
 
 public class LinkedListStack<E> implements Stack<E> {
     private LinkedList<E> list;

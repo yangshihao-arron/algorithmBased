@@ -2,13 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e0094db-8970-45fc-8420-3ad3bc7ccff2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/CustomStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/MapSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Test1381.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/WordDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/avltree/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/avltree/BST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/avltree/FileOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/AVLMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/AVLSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/set/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Test394.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/TestA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/TestA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/TestA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/a-tale-of-two-cities.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlast/LinkedList$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlast/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlast/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlast/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlast/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlast/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/pride-and-prejudice.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/recurisf/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/recurisf/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/BST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/BST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/BSTSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/BSTSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/stack/LinkedListStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/stack/LinkedListStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/trie/BST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/trie/BST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/trie/BSTSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/trie/FileOperation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/trie/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/trie/Set.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/trie/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/trie/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a-tale-of-two-cities.txt" beforeDir="false" afterPath="$PROJECT_DIR$/a-tale-of-two-cities.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlast/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlast/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlast/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlast/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlast/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pride-and-prejudice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pride-and-prejudice.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recurisf/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/recurisf/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set/BST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set/BST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set/BSTSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set/BSTSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stack/LinkedListStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/LinkedListStack.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +71,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/trie" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -46,16 +82,60 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="set" />
+      <recent name="map" />
+      <recent name="avltree" />
       <recent name="trie" />
       <recent name="maxheap" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\algorithmBased" />
+      <recent name="D:\java\algorithmBased\src\avltree" />
       <recent name="D:\java\algorithmBased\src\trie" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="CustomStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.CustomStack" />
+  <component name="RunManager" selected="Application.AVLTree">
+    <configuration name="AVLTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="avltree.AVLTree" />
+      <module name="alforithm based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="avltree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="avltree.FileOperation" />
+      <module name="alforithm based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="avltree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="unionfind.Main" />
+      <module name="alforithm based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="unionfind.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MyQueue" />
       <module name="alforithm based" />
       <extension name="coverage">
         <pattern>
@@ -67,34 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="segmengtree.Main" />
-      <module name="alforithm based" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="segmengtree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="trie.Main" />
-      <module name="alforithm based" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="trie.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test1381" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test1381" />
+    <configuration name="Test394" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Test394" />
       <module name="alforithm based" />
       <extension name="coverage">
         <pattern>
@@ -106,39 +160,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.TestA" />
-      <module name="alforithm based" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.CustomStack" />
-        <item itemvalue="Application.Test1381" />
-        <item itemvalue="Application.TestA" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.AVLTree" />
+        <item itemvalue="Application.FileOperation" />
+        <item itemvalue="Application.MyQueue" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Test394" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +203,15 @@
       <workItem from="1604294852089" duration="310000" />
       <workItem from="1604321751971" duration="1921000" />
       <workItem from="1604363549775" duration="15797000" />
-      <workItem from="1604452618605" duration="7431000" />
+      <workItem from="1604452618605" duration="12568000" />
+      <workItem from="1604537869400" duration="6211000" />
+      <workItem from="1604557806019" duration="507000" />
+      <workItem from="1604558342004" duration="5844000" />
+      <workItem from="1604625076145" duration="3468000" />
+      <workItem from="1604634274530" duration="5206000" />
+      <workItem from="1604712396150" duration="134000" />
+      <workItem from="1604713150405" duration="72000" />
+      <workItem from="1604799425653" duration="3739000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1603870069582</created>
@@ -208,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604475970911</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add unionfind">
+      <created>1604563786819</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604563786819</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,70 +274,75 @@
     <MESSAGE value="add SegmentTree" />
     <MESSAGE value="update package test" />
     <MESSAGE value="add trie" />
-    <option name="LAST_COMMIT_MESSAGE" value="add trie" />
+    <MESSAGE value="add unionfind" />
+    <option name="LAST_COMMIT_MESSAGE" value="add unionfind" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1604367441296">
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1604803076452">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604367441296" />
-    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604455595903">
+    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604803076452" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604630528297">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604455595903" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1604475968765">
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604630528297" />
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1604563783903">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604475968765" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604563783903" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1604630539418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604630539418" />
     <state x="549" y="155" width="438" height="502" key="FileChooserDialogImpl" timestamp="1603785427238">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="155" width="438" height="502" key="FileChooserDialogImpl/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603785427238" />
-    <state width="746" height="221" key="GridCell.Tab.0.bottom" timestamp="1604476047524">
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom" timestamp="1604801496510">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="221" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604476047524" />
+    <state width="1493" height="178" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604801496510" />
     <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
-    <state width="746" height="221" key="GridCell.Tab.0.center" timestamp="1604476047524">
+    <state width="1493" height="178" key="GridCell.Tab.0.center" timestamp="1604801496510">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="221" key="GridCell.Tab.0.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604476047524" />
+    <state width="1493" height="178" key="GridCell.Tab.0.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604801496510" />
     <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
-    <state width="746" height="221" key="GridCell.Tab.0.left" timestamp="1604476047524">
+    <state width="1493" height="178" key="GridCell.Tab.0.left" timestamp="1604801496510">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="221" key="GridCell.Tab.0.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604476047524" />
+    <state width="1493" height="178" key="GridCell.Tab.0.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604801496510" />
     <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
-    <state width="746" height="221" key="GridCell.Tab.0.right" timestamp="1604476047524">
+    <state width="1493" height="178" key="GridCell.Tab.0.right" timestamp="1604801496510">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="221" key="GridCell.Tab.0.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604476047524" />
+    <state width="1493" height="178" key="GridCell.Tab.0.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604801496510" />
     <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
-    <state width="746" height="261" key="GridCell.Tab.1.bottom" timestamp="1604402651748">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604566732319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604402651748" />
-    <state width="746" height="261" key="GridCell.Tab.1.center" timestamp="1604402651748">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604566732319" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604566732319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604402651748" />
-    <state width="746" height="261" key="GridCell.Tab.1.left" timestamp="1604402651748">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604566732319" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604566732319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604402651748" />
-    <state width="746" height="261" key="GridCell.Tab.1.right" timestamp="1604402651748">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604566732319" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604566732319">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="746" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604402651748" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604566732319" />
     <state x="270" y="0" key="SettingsEditor" timestamp="1604233964170">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603969879518" />
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604233964170" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604475977360">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604563797964">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604475977360" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604563797964" />
     <state x="499" y="183" key="extract.method.dialog" timestamp="1604455976350">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -292,14 +351,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="467" y="10" width="602" height="804" key="find.popup/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604476064762" />
+    <state x="178" y="22" key="new project wizard" timestamp="1604713217780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604713217780" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1604233144337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604233144337" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604457631670">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604799961704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604457631670" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604799961704" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

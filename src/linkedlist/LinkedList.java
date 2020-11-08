@@ -1,4 +1,4 @@
-package linkedlast;
+package linkedlist;
 
 public class LinkedList<E> {
     private class Node{
