@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e0094db-8970-45fc-8420-3ad3bc7ccff2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/redbalcktree/AVLTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redbalcktree/BST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redbalcktree/FileOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redbalcktree/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redbalcktree/RBTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/avltree/AVLTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/avltree/AVLTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/RBTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/RBTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redbalcktree/RBTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/redbalcktree/RBTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,22 +56,9 @@
       <recent name="D:\java\algorithmBased\src\trie" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main2">
     <configuration name="AVLTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="avltree.AVLTree" />
-      <module name="alforithm based" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="avltree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="avltree.FileOperation" />
       <module name="alforithm based" />
       <extension name="coverage">
         <pattern>
@@ -100,12 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.MyQueue" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="redbalcktree.Main2" />
       <module name="alforithm based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="redbalcktree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="redbalcktree.Main3" />
+      <module name="alforithm based" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="redbalcktree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main3" />
         <item itemvalue="Application.AVLTree" />
         <item itemvalue="Application.RBTree" />
-        <item itemvalue="Application.FileOperation" />
-        <item itemvalue="Application.MyQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +175,7 @@
       <workItem from="1604713150405" duration="72000" />
       <workItem from="1604799425653" duration="4631000" />
       <workItem from="1604804228992" duration="21000" />
-      <workItem from="1606619292897" duration="17867000" />
+      <workItem from="1606619292897" duration="19835000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1603870069582</created>
@@ -237,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604803251189</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update avltree&#10;add redblacktree">
+      <created>1606654969162</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606654969162</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +254,8 @@
     <MESSAGE value="add trie" />
     <MESSAGE value="add unionfind" />
     <MESSAGE value="update set and map&#10;add avltree" />
-    <option name="LAST_COMMIT_MESSAGE" value="update set and map&#10;add avltree" />
+    <MESSAGE value="update avltree&#10;add redblacktree" />
+    <option name="LAST_COMMIT_MESSAGE" value="update avltree&#10;add redblacktree" />
   </component>
   <component name="WindowStateProjectService">
     <state x="502" y="235" key="#Notifications" timestamp="1606619325019">
@@ -266,10 +270,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604630528297" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1604803249005">
+    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1606654967510">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604803249005" />
+    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606654967510" />
     <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1604630539418">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -278,25 +282,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="155" width="438" height="502" key="FileChooserDialogImpl/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603785427238" />
-    <state width="1492" height="136" key="GridCell.Tab.0.bottom" timestamp="1606654671772">
+    <state width="1492" height="136" key="GridCell.Tab.0.bottom" timestamp="1606656103704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="136" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606654671772" />
+    <state width="1492" height="136" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606656103704" />
     <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
-    <state width="1492" height="136" key="GridCell.Tab.0.center" timestamp="1606654671772">
+    <state width="1492" height="136" key="GridCell.Tab.0.center" timestamp="1606656103704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="136" key="GridCell.Tab.0.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606654671772" />
+    <state width="1492" height="136" key="GridCell.Tab.0.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606656103704" />
     <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
-    <state width="1492" height="136" key="GridCell.Tab.0.left" timestamp="1606654671772">
+    <state width="1492" height="136" key="GridCell.Tab.0.left" timestamp="1606656103704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="136" key="GridCell.Tab.0.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606654671772" />
+    <state width="1492" height="136" key="GridCell.Tab.0.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606656103704" />
     <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
-    <state width="1492" height="136" key="GridCell.Tab.0.right" timestamp="1606654671772">
+    <state width="1492" height="136" key="GridCell.Tab.0.right" timestamp="1606656103704">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="136" key="GridCell.Tab.0.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606654671772" />
+    <state width="1492" height="136" key="GridCell.Tab.0.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606656103704" />
     <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604566732319">
       <screen x="0" y="0" width="1536" height="824" />
@@ -319,10 +323,10 @@
     </state>
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603969879518" />
     <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604233964170" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604803257882">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606654987330">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604803257882" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606654987330" />
     <state x="499" y="183" key="extract.method.dialog" timestamp="1604455976350">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
