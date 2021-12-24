@@ -1,8 +1,8 @@
-package top_ten_sorting_algorithms;
+package top_ten_sorting_algorithms.a1_bubblesort;
 
 import java.util.Arrays;
 
-public class BubbleSort  {
+public class BubbleSort {
 
     public int[] sort(int[] sourceArray)  {
         // 对 arr 进行拷贝，不改变参数内容

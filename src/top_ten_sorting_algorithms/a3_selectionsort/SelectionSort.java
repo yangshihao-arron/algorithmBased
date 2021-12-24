@@ -1,4 +1,4 @@
-package top_ten_sorting_algorithms;
+package top_ten_sorting_algorithms.a3_selectionsort;
 
 import java.util.Arrays;
 
