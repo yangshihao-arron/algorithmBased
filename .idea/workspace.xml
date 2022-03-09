@@ -1,10 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e0094db-8970-45fc-8420-3ad3bc7ccff2" name="Default Changelist" comment="">
+    <list default="true" id="0e0094db-8970-45fc-8420-3ad3bc7ccff2" name="Default Changelist" comment="add shellSort">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/top_ten_sorting_algorithms/a6_quicksort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/array/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/array/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/array/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/array/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/avltree/AVLTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/avltree/AVLTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/avltree/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/avltree/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/avltree/BST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/avltree/BST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/avltree/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/avltree/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/avltree/FileOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/avltree/FileOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/bst/BST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/bst/BST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/bst/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/bst/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/bst/TestBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/bst/TestBST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/linkedlist/Solution2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/map/AVLMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/map/AVLMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/map/AVLTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/map/AVLTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/map/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/map/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/map/BSTMap$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/map/BSTMap$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/map/BSTMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/map/BSTMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/map/LinkedListMap$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/map/LinkedListMap$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/map/LinkedListMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/map/LinkedListMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/map/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/map/Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/maxheap/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/maxheap/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/maxheap/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/maxheap/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/maxheap/MaxHeap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/maxheap/MaxHeap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/maxheap/PriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/maxheap/PriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/maxheap/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/maxheap/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/queue/ArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/queue/ArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/queue/LinkedListQueue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/queue/LinkedListQueue$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/queue/LinkedListQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/queue/LinkedListQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/queue/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/queue/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/queue/LoopQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/queue/LoopQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/queue/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/queue/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/queue/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/queue/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/recurisf/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/recurisf/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/recurisf/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/recurisf/Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/AVLTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/AVLTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/BST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/BST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/FileOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/FileOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/Main2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/Main3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/RBTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/RBTree$Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/RBTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/redbalcktree/RBTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/redbalcktree/RBTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/redbalcktree/RBTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/segmengtree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/segmengtree/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/segmengtree/Merger.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/segmengtree/Merger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/segmengtree/SegmentTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/segmengtree/SegmentTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/AVLSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/AVLSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/AVLTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/AVLTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/AVLTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/AVLTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/BST$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/BST$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/BST.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/BSTSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/BSTSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/FileOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/FileOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/LinkedListSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/LinkedListSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/set/Set.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/set/Set.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/stack/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/stack/ArrayStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/stack/LinkedListStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/stack/LinkedListStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/stack/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/stack/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/stack/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/stack/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/stack/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/stack/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/CustomStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/CustomStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/MapSum$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/MapSum$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/MapSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/MapSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/Test1381.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/Test1381.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/Test303.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/Test303.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/Test307.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/Test307.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/Test307_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/Test307_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/Test394.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/Test394.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/Test821.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/Test821.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/TestA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/TestA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/WordDictionary$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/WordDictionary$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/test/WordDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/test/WordDictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/trie/Trie$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/trie/Trie$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/trie/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/trie/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/unionfind/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/unionfind/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UF.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/alforithm based/unionfind/UnionFind6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redbalcktree/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/redbalcktree/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,14 +125,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/redbalcktree" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -50,19 +144,20 @@
       <recent name="trie" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\algorithmBased\src\HashTable" />
       <recent name="D:\java\algorithmBased\src\redbalcktree" />
       <recent name="D:\java\algorithmBased" />
       <recent name="D:\java\algorithmBased\src\avltree" />
       <recent name="D:\java\algorithmBased\src\trie" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main2">
-    <configuration name="AVLTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="avltree.AVLTree" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_ten_sorting_algorithms.a2_insertsort.InsertSort" />
       <module name="alforithm based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="avltree.*" />
+          <option name="PATTERN" value="top_ten_sorting_algorithms.a1_bubblesort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,11 +166,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="redbalcktree.Main" />
+      <option name="MAIN_CLASS_NAME" value="hashtable.Main" />
       <module name="alforithm based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="redbalcktree.*" />
+          <option name="PATTERN" value="hashtable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="redbalcktree.Main2" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_ten_sorting_algorithms.a6_quicksort.QuickSort" />
       <module name="alforithm based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="redbalcktree.*" />
+          <option name="PATTERN" value="top_ten_sorting_algorithms.a6_quicksort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="redbalcktree.Main3" />
+    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_ten_sorting_algorithms.a3_selectionsort.SelectionSort" />
       <module name="alforithm based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="redbalcktree.*" />
+          <option name="PATTERN" value="top_ten_sorting_algorithms.a1_bubblesort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RBTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="redbalcktree.RBTree" />
+    <configuration name="shellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="top_ten_sorting_algorithms.a4_shellsort.shellSort" />
       <module name="alforithm based" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="redbalcktree.*" />
+          <option name="PATTERN" value="top_ten_sorting_algorithms.a4_shellsort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +230,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main2" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.AVLTree" />
-        <item itemvalue="Application.RBTree" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.shellSort" />
+        <item itemvalue="Application.InsertSort" />
+        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +269,25 @@
       <workItem from="1604713150405" duration="72000" />
       <workItem from="1604799425653" duration="4631000" />
       <workItem from="1604804228992" duration="21000" />
-      <workItem from="1606619292897" duration="19835000" />
+      <workItem from="1606619292897" duration="20263000" />
+      <workItem from="1606700937499" duration="12928000" />
+      <workItem from="1639663259947" duration="2205000" />
+      <workItem from="1639960200669" duration="202000" />
+      <workItem from="1640090185589" duration="1136000" />
+      <workItem from="1640091458850" duration="344000" />
+      <workItem from="1640133499380" duration="596000" />
+      <workItem from="1640134886505" duration="2000" />
+      <workItem from="1640263280682" duration="646000" />
+      <workItem from="1640308179087" duration="24000" />
+      <workItem from="1640331522249" duration="3734000" />
+      <workItem from="1640418871047" duration="162000" />
+      <workItem from="1640861363755" duration="2671000" />
+      <workItem from="1640910061507" duration="13000" />
+      <workItem from="1645520086718" duration="27000" />
+      <workItem from="1646746965781" duration="1852000" />
+      <workItem from="1646795391391" duration="99000" />
+      <workItem from="1646795516952" duration="42000" />
+      <workItem from="1646795572782" duration="354000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1603870069582</created>
@@ -240,7 +352,49 @@
       <option name="project" value="LOCAL" />
       <updated>1606654969162</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="update redblacktree">
+      <created>1606656909133</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1606656909133</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add hashtable">
+      <created>1606740680649</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606740680649</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add bubblesort">
+      <created>1639665046695</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639665046695</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add SelectionSort">
+      <created>1640091306614</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1640091306614</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add SelectionSort">
+      <created>1640333248441</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1640333248441</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add shellSort">
+      <created>1640864658391</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1640864658391</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,98 +409,12 @@
     <MESSAGE value="add unionfind" />
     <MESSAGE value="update set and map&#10;add avltree" />
     <MESSAGE value="update avltree&#10;add redblacktree" />
-    <option name="LAST_COMMIT_MESSAGE" value="update avltree&#10;add redblacktree" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="502" y="235" key="#Notifications" timestamp="1606619325019">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="502" y="235" key="#Notifications/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606619325019" />
-    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser" timestamp="1604803076452">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="574" y="117" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604803076452" />
-    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604630528297">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604630528297" />
-    <state x="367" y="0" key="CommitChangelistDialog2" timestamp="1606654967510">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="367" y="0" key="CommitChangelistDialog2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606654967510" />
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1604630539418">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604630539418" />
-    <state x="549" y="155" width="438" height="502" key="FileChooserDialogImpl" timestamp="1603785427238">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="549" y="155" width="438" height="502" key="FileChooserDialogImpl/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603785427238" />
-    <state width="1492" height="136" key="GridCell.Tab.0.bottom" timestamp="1606656103704">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1492" height="136" key="GridCell.Tab.0.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606656103704" />
-    <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
-    <state width="1492" height="136" key="GridCell.Tab.0.center" timestamp="1606656103704">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1492" height="136" key="GridCell.Tab.0.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606656103704" />
-    <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
-    <state width="1492" height="136" key="GridCell.Tab.0.left" timestamp="1606656103704">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1492" height="136" key="GridCell.Tab.0.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606656103704" />
-    <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
-    <state width="1492" height="136" key="GridCell.Tab.0.right" timestamp="1606656103704">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1492" height="136" key="GridCell.Tab.0.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606656103704" />
-    <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604208628404" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1604566732319">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604566732319" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1604566732319">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604566732319" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1604566732319">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604566732319" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1604566732319">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604566732319" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1604233964170">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1603969879518" />
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1604233964170" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1606654987330">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1606654987330" />
-    <state x="499" y="183" key="extract.method.dialog" timestamp="1604455976350">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="499" y="183" key="extract.method.dialog/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604455976350" />
-    <state x="467" y="10" width="602" height="804" key="find.popup" timestamp="1604476064762">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="467" y="10" width="602" height="804" key="find.popup/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604476064762" />
-    <state x="178" y="22" key="new project wizard" timestamp="1604804247399">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="178" y="22" key="new project wizard/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604804247399" />
-    <state x="425" y="187" key="run.anything.popup" timestamp="1604233144337">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604233144337" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1604799961704">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1600.293.1600.860@0.0.1536.824" timestamp="1604799961704" />
+    <MESSAGE value="update redblacktree" />
+    <MESSAGE value="add hashtable" />
+    <MESSAGE value="add bubblesort" />
+    <MESSAGE value="add SelectionSort" />
+    <MESSAGE value="add shellSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="add shellSort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -355,6 +423,42 @@
           <url>file://$PROJECT_DIR$/src/test/Test1381.java</url>
           <line>17</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/top_ten_sorting_algorithms/a1_bubblesort/BubbleSort.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/top_ten_sorting_algorithms/a6_quicksort/QuickSort.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/top_ten_sorting_algorithms/a6_quicksort/QuickSort.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/top_ten_sorting_algorithms/a6_quicksort/QuickSort.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/top_ten_sorting_algorithms/a1_bubblesort/BubbleSort.java</url>
+          <line>6</line>
+          <properties class="top_ten_sorting_algorithms.a1_bubblesort.BubbleSort" method="sort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/top_ten_sorting_algorithms/a6_quicksort/QuickSort.java</url>
+          <line>27</line>
+          <properties class="top_ten_sorting_algorithms.a6_quicksort.QuickSort" method="partition">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
