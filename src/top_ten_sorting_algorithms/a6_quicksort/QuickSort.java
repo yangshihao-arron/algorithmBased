@@ -12,10 +12,8 @@ public class QuickSort {
     public int[] sort(int[] sourceArray) {
         // 对 arr 进行拷贝，不改变参数内容
         int[] arr = Arrays.copyOf(sourceArray, sourceArray.length);
-
         return quickSort(arr, 0, arr.length - 1);
     }
-
     public int[] quickSort(int[] arr, int left, int right){
         if(left < right) {
             int index = partition(arr, left, right);
@@ -24,7 +22,7 @@ public class QuickSort {
         }
         return arr;
     }
-
+    //返回分区后pivot的下标
     public int partition(int[]arr, int left, int right){
         int pivot = left;
         int index = pivot + 1;
@@ -37,7 +35,6 @@ public class QuickSort {
         swap(arr, pivot,index - 1);
         return index - 1;
     }
-
     public void swap(int[] arr, int i, int j){
         int temp = arr[i];
         arr[i] = arr[j];

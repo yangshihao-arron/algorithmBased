@@ -11,7 +11,7 @@ public class FinalInsertSort {
             int temp = arr[i];
             int j = i;
             while(j > 0 && temp < arr[j-1]){
-                arr[j] = arr[j - 1];
+                arr[j] = arr[j - 1];  //把大的往后挪位
                 j--;
             }
             if(j != i)
